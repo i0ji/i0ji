@@ -41,8 +41,15 @@ RTA Air & Sea (August 2023 – Present)/DevOps Engineer/System Administrator:
 - HTML Academy: Immersion in Web Development
 - Skillbox: Frontend Developer
 
+## ⚡ Fun fact: **I'm raising a cat called Ovca!**
+
 
 <!--[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/i0ji/github-profile-trophy)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=i0ji)](https://git.io/streak-stats)-->
-##⚡ Fun fact: **I'm raising a cat called Ovca!**
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=i0ji)](https://git.io/streak-stats)
+Info GH: [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=i0ji&layout=compact)](https://github.com/i0ji/github-readme-stats)
+Info CW: [![codewars](https://www.codewars.com/users/i0ji/badges/micro)](https://www.codewars.com/users/i0ji) 
+-->
+
+
+
 
