@@ -28,8 +28,7 @@ RTA Air & Sea (August 2023 – Present)/DevOps Engineer/System Administrator:
 - Testing with Jest and Cypress
 
 ### Education
-#### Moscow Aviation Institute (National Research University)
-- Period: 2018 – 2023
+#### Moscow Aviation Institute (2018 - 2023) 
 - Faculty: Engineering & Economics
 - Specialty: Management and Marketing of High-Tech Industries
 
