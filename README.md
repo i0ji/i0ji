@@ -40,6 +40,13 @@ RTA Air & Sea (August 2023 – Present)/DevOps Engineer/System Administrator:
 - HTML Academy: Immersion in Web Development
 - Skillbox: Frontend Developer
 
+## Repository naming: 
+s - study
+m - markup 
+t - tests
+p - personal
+
+
 ## ⚡ Fun fact: **I'm raising a cat called Ovca!**
 
 
