@@ -1,6 +1,6 @@
 <img src="https://media.giphy.com/media/Lny6Rw04nsOOc/giphy.gif" width="800"/>
 
-## Hello! My name is Ioann Vasilievich i`m FE developer from Moscow. 
+## Hello! My name is Ioann! 
 ## Buzzzz: 
 <img height="32" width="32" src="https://cdn.simpleicons.org/react/white"/> <img height="32" width="32" src="https://cdn.simpleicons.org/typescript/white"/> <img height="32" width="32" src="https://cdn.simpleicons.org/javascript/white"/> <img height="32" width="32" src="https://cdn.simpleicons.org/vite/white"/> <img height="32" width="32" src="https://cdn.simpleicons.org/yarn/white"/> <img height="32" width="32" src="https://cdn.simpleicons.org/webpack/white"/> <img height="32" width="32" src="https://cdn.simpleicons.org/sass/white"/> <img height="32" width="32" src="https://cdn.simpleicons.org/redux/white"/> <img height="32" width="32" src="https://cdn.simpleicons.org/yandexcloud/white"/> <img height="32" width="32" src="https://cdn.simpleicons.org/cypress/white"/> <img height="32" width="32" src="https://cdn.simpleicons.org/jest/white"/>
 
