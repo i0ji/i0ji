@@ -82,12 +82,18 @@ Made using Webpack, SASS, Figma models.
 
 <hr>
 
-### Repository naming:
+### Git stats:
 
-s - study<br>
-m - markup<br>
-t - tests<br>
-p - personal<br>
+[![GitHub Streak](https://streak-stats.demolab.com?user=i0ji&hide_border=true&theme=radical&border_radius=3&date_format=j%20M%5B%20Y%5D&hide_total_contributions=true&hide_longest_streak=true)](https://github.com/i0ji)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=i0ji&theme=radical)
+
+### Repository naming:
+| type  | value |
+| ------------- | ------------- |
+| `s`  | study and learning projects  |
+| `m`  | markup and layout  |
+| `t`  | tests  |
+| `p`  | personal projects  |
 
 ## ⚡ Fun fact: **I'm raising a cat called Ovca!**
 
