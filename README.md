@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/Lny6Rw04nsOOc/giphy.gif" width="800"/>
+<img src="https://media.giphy.com/media/Lny6Rw04nsOOc/giphy.gif" width="1024" height="400"/>
 
 ## Hello! My name is Ioann!
 
@@ -84,7 +84,7 @@ Made using Webpack, SASS, Figma models.
 
 ### Git stats:
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=i0ji&hide_border=true&theme=radical&border_radius=3&date_format=j%20M%5B%20Y%5D&hide_total_contributions=true&hide_longest_streak=true)](https://github.com/i0ji)
+<!--[![GitHub Streak](https://streak-stats.demolab.com?user=i0ji&hide_border=true&theme=radical&border_radius=3&date_format=j%20M%5B%20Y%5D&hide_total_contributions=true&hide_longest_streak=true)](https://github.com/i0ji)-->
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=i0ji&theme=radical)
 
 ### Repository naming:
