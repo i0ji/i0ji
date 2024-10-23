@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/Lny6Rw04nsOOc/giphy.gif" width="1024" height="400"/>
+<img src="https://media.giphy.com/media/Lny6Rw04nsOOc/giphy.gif" width="1024" height="600"/>
 
 ## Hello! My name is Ioann!
 
