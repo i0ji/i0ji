@@ -5,6 +5,7 @@
 ## Сompetencies and technologies:
 
 <div>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/next/next-original-wordmark.svg" title="NEXT" alt="React" width="32" height="32"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="32" height="32"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TS" alt="TS" width="32" height="32"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JS" alt="JS" width="32" height="32"/>&nbsp;
@@ -41,7 +42,7 @@
 
 **Designer portfolio website**
 
-- Technologies: React, TypeScript, SCSS, Vite
+- Technologies: NEXT.JS, React, TypeScript, SCSS, Vite
 - Full-cycle development and deployment of the application
 - Working with Yandex.Metrica, Yandex.Webmaster, Google PageSpeed, Google Search Console
 - Performance optimization and UX improvement
