@@ -2,7 +2,7 @@
 
 ## Hello! My name is Ioann!
 
-## Сompetencies and technologies:
+## Technologies/stack:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="NEXT" alt="Next" width="32" height="32"/>&nbsp;
