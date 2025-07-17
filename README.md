@@ -99,7 +99,7 @@ Made using Webpack, SASS, Figma models.
 
 ### About me
 - I am interested in scale model building;<br>
--⚡I am a happy owner of a cat called Ovca!<br>
+- I am a happy owner of a cat called Ovca!⚡<br>
 - I play drums;<br>
 
 <!--[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/i0ji/github-profile-trophy)
