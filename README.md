@@ -97,7 +97,7 @@ Made using Webpack, SASS, Figma models.
 | `t`  | tests  |
 | `p`  | personal projects  |
 
-### About me
+### About me:
 - I am interested in scale model building;<br>
 - I am a happy owner of a cat called Ovca!⚡<br>
 - I play drums;<br>
