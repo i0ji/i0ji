@@ -21,7 +21,15 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/pnpm/pnpm-original.svg" title="pnpm" alt="pnpm" width="32" height="32"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original.svg" title="yarn" alt="yarn" width="32" height="32"/>&nbsp;
   <img height="32" width="32" src="https://cdn.simpleicons.org/yandexcloud/white" title="Yandex.Cloud"/>
+  <br>
+  <img src="https://logo.svgcdn.com/d/windows11-original.png" title="Windows" alt="Win" width="32" height="32"/>&nbsp;
+  <img src="https://logo.svgcdn.com/l/ubuntu.png" title="Ubuntu" alt="Ubuntu" width="32" height="32"/>&nbsp;
+  <img src="https://logo.svgcdn.com/l/zabbix-8x.png" title="Zabbix" alt="Zabbix" width="100" height="32"/>&nbsp;
+  <img src="https://logo.svgcdn.com/d/docker-plain-wordmark-8x.png" title="Docker" alt="Docker" width="32" height="32"/>&nbsp;
+  <img src="https://logo.svgcdn.com/d/portainer-original.png" title="Portainer" alt="Portainer" width="32" height="32"/>&nbsp;
 </div>
+
+https://logo.svgcdn.com/d/portainer-original.png
 
 <!--<img height="32" width="32" src="https://cdn.simpleicons.org/react/white" title="React"/> <img height="32" width="32" src="https://cdn.simpleicons.org/typescript/white" title="TS"/> <img height="32" width="32" src="https://cdn.simpleicons.org/javascript/white" title="JS"/> <img height="32" width="32" src="https://cdn.simpleicons.org/vite/white" title="vite"/> <img height="32" width="32" src="https://cdn.simpleicons.org/yarn/white" title="Yarn"/> <img height="32" width="32" src="https://cdn.simpleicons.org/webpack/white" title="Webpack"/> <img height="32" width="32" src="https://cdn.simpleicons.org/sass/white" title="SASS"/> <img height="32" width="32" src="https://cdn.simpleicons.org/redux/white" title="Redux"/> <img height="32" width="32" src="https://cdn.simpleicons.org/yandexcloud/white" title="Yandex.Cloud"/> <img height="32" width="32" src="https://cdn.simpleicons.org/cypress/white" title="Cypress"/> <img height="32" width="32" src="https://cdn.simpleicons.org/jest/white" title="Jest"/>
 
@@ -87,17 +95,20 @@ Made using Webpack, SASS, Figma models.
 ### Git stats:
 
 <!--[![GitHub Streak](https://streak-stats.demolab.com?user=i0ji&hide_border=true&theme=radical&border_radius=3&date_format=j%20M%5B%20Y%5D&hide_total_contributions=true&hide_longest_streak=true)](https://github.com/i0ji)-->
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=i0ji&theme=radical)
 
 ### Repository naming:
-| type  | value |
-| ------------- | ------------- |
-| `s`  | study and learning projects  |
-| `m`  | markup and layout  |
-| `t`  | tests  |
-| `p`  | personal projects  |
+
+| type | value                       |
+| ---- | --------------------------- |
+| `s`  | study and learning projects |
+| `m`  | markup and layout           |
+| `t`  | tests                       |
+| `p`  | personal projects           |
 
 ### About me:
+
 - I am interested in scale model building;<br>
 - I am a happy owner of a cat called Ovca!⚡<br>
 - I play drums;<br>
