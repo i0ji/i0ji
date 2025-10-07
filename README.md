@@ -29,9 +29,14 @@
   <img src="https://logo.svgcdn.com/d/portainer-original.png" title="Portainer" alt="Portainer" width="32" height="32"/>&nbsp;
 </div>
 
+<!-- ICONS: https://brandpnglogo.com/ -->
+<!-- ICONS: https://github.com/devicons/devicon/tree/master/icons -->
+
 <!--<img height="32" width="32" src="https://cdn.simpleicons.org/react/white" title="React"/> <img height="32" width="32" src="https://cdn.simpleicons.org/typescript/white" title="TS"/> <img height="32" width="32" src="https://cdn.simpleicons.org/javascript/white" title="JS"/> <img height="32" width="32" src="https://cdn.simpleicons.org/vite/white" title="vite"/> <img height="32" width="32" src="https://cdn.simpleicons.org/yarn/white" title="Yarn"/> <img height="32" width="32" src="https://cdn.simpleicons.org/webpack/white" title="Webpack"/> <img height="32" width="32" src="https://cdn.simpleicons.org/sass/white" title="SASS"/> <img height="32" width="32" src="https://cdn.simpleicons.org/redux/white" title="Redux"/> <img height="32" width="32" src="https://cdn.simpleicons.org/yandexcloud/white" title="Yandex.Cloud"/> <img height="32" width="32" src="https://cdn.simpleicons.org/cypress/white" title="Cypress"/> <img height="32" width="32" src="https://cdn.simpleicons.org/jest/white" title="Jest"/>
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=i0ji&theme=2077&exclude=HTML"/> -->
+
+
 <hr>
 
 ### Work exp:
