@@ -32,7 +32,7 @@
 
 **RTA Air & Sea** (August 2023 – Present) DevOps Engineer/System Administrator:
 
-- Technologies: VMware, Zabbix, AD, YDS, Y.360, Portainer/Docker, Alta-Soft, Multifactor, 1S EPR
+- Technologies: VMware, Linux & Windows administration, Zabbix, AD, YDS, Y.360, Portainer/Docker, Alta-Soft, Multifactor, 1S EPR, Hyper-V
 - Migrating servers and services to the cloud
 - Managing and maintaining infrastructure
 - User support and working with customs and office apps
