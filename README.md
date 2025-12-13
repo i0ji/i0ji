@@ -20,6 +20,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="32" height="32"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pnpm/pnpm-original.svg" title="pnpm" alt="pnpm" width="32" height="32"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original.svg" title="yarn" alt="yarn" width="32" height="32"/>&nbsp;
+
+  
   <img height="32" width="32" src="https://cdn.simpleicons.org/yandexcloud/white" title="Yandex.Cloud"/>
   <br>
   <img src="https://logo.svgcdn.com/d/windows11-original.png" title="Windows" alt="Win" width="32" height="32"/>&nbsp;
@@ -27,6 +29,7 @@
   <img src="https://logo.svgcdn.com/l/zabbix-8x.png" title="Zabbix" alt="Zabbix" width="100" height="32"/>&nbsp;
   <img src="https://logo.svgcdn.com/d/docker-plain-wordmark-8x.png" title="Docker" alt="Docker" width="32" height="32"/>&nbsp;
   <img src="https://logo.svgcdn.com/d/portainer-original.png" title="Portainer" alt="Portainer" width="32" height="32"/>&nbsp;
+  <img src="https://ocsinventory-ng.org/wp-content/uploads/2019/04/banniere-ocs-without-ng-white-white.png" title="Portainer" alt="Portainer" width="64" height="32"/>&nbsp;
 </div>
 
 <!-- ICONS: https://brandpnglogo.com/ -->
