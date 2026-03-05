@@ -104,15 +104,6 @@ Made using Webpack, SASS, Figma models.
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=i0ji&theme=radical)
 
-### Repository naming:
-
-| type | value                       |
-| ---- | --------------------------- |
-| `s`  | study and learning projects |
-| `m`  | markup and layout           |
-| `t`  | tests                       |
-| `p`  | personal projects           |
-
 ### About me:
 
 - I am interested in scale model building;<br>
