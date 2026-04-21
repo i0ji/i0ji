@@ -5,31 +5,27 @@
 ## Technologies/stack:
 
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="NEXT" alt="Next" width="32" height="32"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="32" height="32"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TS" alt="TS" width="32" height="32"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JS" alt="JS" width="32" height="32"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg" title="ViteJS" alt="ViteJS" width="32" height="32"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="Webpack" alt="Webpack" width="32" height="32"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="32" height="32"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="32" height="32"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg"  title="SASS" alt="SASS" width="32" height="32"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="32" height="32"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="Jest" alt="Jest" width="32" height="32"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cypressio/cypressio-original.svg" title="Cypress" alt="Cypress" width="32" height="32"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="32" height="32"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pnpm/pnpm-original.svg" title="pnpm" alt="pnpm" width="32" height="32"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original.svg" title="yarn" alt="yarn" width="32" height="32"/>&nbsp;
-
-  
-  <img height="32" width="32" src="https://cdn.simpleicons.org/yandexcloud/white" title="Yandex.Cloud"/>
-  <br>
-  <img src="https://logo.svgcdn.com/d/windows11-original.png" title="Windows" alt="Win" width="32" height="32"/>&nbsp;
-  <img src="https://logo.svgcdn.com/l/ubuntu.png" title="Ubuntu" alt="Ubuntu" width="32" height="32"/>&nbsp;
-  <img src="https://logo.svgcdn.com/l/zabbix-8x.png" title="Zabbix" alt="Zabbix" width="100" height="32"/>&nbsp;
-  <img src="https://logo.svgcdn.com/d/docker-plain-wordmark-8x.png" title="Docker" alt="Docker" width="32" height="32"/>&nbsp;
-  <img src="https://logo.svgcdn.com/d/portainer-original.png" title="Portainer" alt="Portainer" width="32" height="32"/>&nbsp;
-  <img src="https://ocsinventory-ng.org/wp-content/uploads/2019/04/banniere-ocs-without-ng-white-white.png" title="Portainer" alt="Portainer" width="64" height="32"/>&nbsp;
+  <img src="./icons/nextjs-original.svg" title="NEXT" alt="Next" width="32" height="32"/>&nbsp;
+  <img src="./icons/react-original-wordmark.svg" title="React" alt="React" width="32" height="32"/>&nbsp;
+  <img src="./icons/typescript-original.svg" title="TS" alt="TS" width="32" height="32"/>&nbsp;
+  <img src="./icons/javascript-original.svg" title="JS" alt="JS" width="32" height="32"/>&nbsp;
+  <img src="./icons/vitejs-original.svg" title="ViteJS" alt="ViteJS" width="32" height="32"/>&nbsp;
+  <img src="./icons/webpack-original.svg" title="Webpack" alt="Webpack" width="32" height="32"/>&nbsp;
+  <img src="./icons/redux-original.svg" title="Redux" alt="Redux " width="32" height="32"/>&nbsp;
+  <img src="./icons/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="32" height="32"/>&nbsp;
+  <img src="./icons/sass-original.svg"  title="SASS" alt="SASS" width="32" height="32"/>&nbsp;
+  <img src="./icons/html5-original.svg" title="HTML5" alt="HTML5" width="32" height="32"/>&nbsp;
+  <img src="./icons/jest-plain.svg" title="Jest" alt="Jest" width="32" height="32"/>&nbsp;
+  <img src="./icons/cypressio-original.svg" title="Cypress" alt="Cypress" width="32" height="32"/>&nbsp;
+  <img src="./icons/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="32" height="32"/>&nbsp;
+  <img src="./icons/pnpm-original.svg" title="pnpm" alt="pnpm" width="32" height="32"/>&nbsp;
+  <img src="./icons/yarn-original.svg" title="yarn" alt="yarn" width="32" height="32"/>&nbsp;<br>
+  <img src="./icons/windows11-original.png" title="Windows" alt="Win" width="32" height="32"/>&nbsp;
+  <img src="./icons/ubuntu.svg" title="Ubuntu" alt="Ubuntu" width="32" height="32"/>&nbsp;
+  <img src="./icons/zabbix.svg" title="Zabbix" alt="Zabbix" width="100" height="32"/>&nbsp;
+  <img src="./icons/grafana.svg" title="Grafana" alt="Grafana" width="100" height="32"/>&nbsp;
+  <img src="./icons/docker-plain-wordmark-8x.png" title="Docker" alt="Docker" width="32" height="32"/>&nbsp;
+  <img src="./icons/portainer-original.png" title="Portainer" alt="Portainer" width="32" height="32"/>&nbsp;
 </div>
 
 <!-- ICONS: https://brandpnglogo.com/ -->
@@ -38,7 +34,6 @@
 <!--<img height="32" width="32" src="https://cdn.simpleicons.org/react/white" title="React"/> <img height="32" width="32" src="https://cdn.simpleicons.org/typescript/white" title="TS"/> <img height="32" width="32" src="https://cdn.simpleicons.org/javascript/white" title="JS"/> <img height="32" width="32" src="https://cdn.simpleicons.org/vite/white" title="vite"/> <img height="32" width="32" src="https://cdn.simpleicons.org/yarn/white" title="Yarn"/> <img height="32" width="32" src="https://cdn.simpleicons.org/webpack/white" title="Webpack"/> <img height="32" width="32" src="https://cdn.simpleicons.org/sass/white" title="SASS"/> <img height="32" width="32" src="https://cdn.simpleicons.org/redux/white" title="Redux"/> <img height="32" width="32" src="https://cdn.simpleicons.org/yandexcloud/white" title="Yandex.Cloud"/> <img height="32" width="32" src="https://cdn.simpleicons.org/cypress/white" title="Cypress"/> <img height="32" width="32" src="https://cdn.simpleicons.org/jest/white" title="Jest"/>
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=i0ji&theme=2077&exclude=HTML"/> -->
-
 
 <hr>
 
