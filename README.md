@@ -22,8 +22,8 @@
 
   <!-- ICONS: https://brandpnglogo.com/ -->
   <!-- ICONS: https://github.com/devicons/devicon/tree/master/icons -->
+  <!--- ICONS: https://github.com/tandpfun/skill-icons/tree/main -->
 
-  <!-- THANKS FOR ICONS: https://github.com/tandpfun/skill-icons/tree/main -->
   <!-- <img src="./icons/nextjs-original.svg" title="NEXT" alt="Next" width="32" height="32"/>&nbsp; -->
   <!-- <img src="./icons/react-original-wordmark.svg" title="React" alt="React" width="32" height="32"/>&nbsp; -->
   <!-- <img src="./icons/typescript-original.svg" title="TS" alt="TS" width="32" height="32"/>&nbsp; -->
