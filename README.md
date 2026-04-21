@@ -16,10 +16,10 @@
   <img src="./icons/sass-original.svg"  title="SASS" alt="SASS" width="32" height="32"/>&nbsp;
   <img src="./icons/html5-original.svg" title="HTML5" alt="HTML5" width="32" height="32"/>&nbsp;
   <img src="./icons/jest-plain.svg" title="Jest" alt="Jest" width="32" height="32"/>&nbsp;
-  <img src="./icons//cypressio-original.svg" title="Cypress" alt="Cypress" width="32" height="32"/>&nbsp;
+  <img src="./icons/cypressio-original.svg" title="Cypress" alt="Cypress" width="32" height="32"/>&nbsp;
   <img src="./icons/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="32" height="32"/>&nbsp;
   <img src="./icons/pnpm-original.svg" title="pnpm" alt="pnpm" width="32" height="32"/>&nbsp;
-  <img src="./icons/yarn-original.svg" title="yarn" alt="yarn" width="32" height="32"/>&nbsp;
+  <img src="./icons/yarn-original.svg" title="yarn" alt="yarn" width="32" height="32"/>&nbsp;<br>
   <img src="./icons/windows11-original.png" title="Windows" alt="Win" width="32" height="32"/>&nbsp;
   <img src="./icons/ubuntu.svg" title="Ubuntu" alt="Ubuntu" width="32" height="32"/>&nbsp;
   <img src="./icons/Zabbix.svg" title="Zabbix" alt="Zabbix" width="100" height="32"/>&nbsp;
