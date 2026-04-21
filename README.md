@@ -9,14 +9,17 @@
 <img src="https://skillicons.dev/icons?i=next,react,ts,js,vite"/><br>
 <img src="https://skillicons.dev/icons?i=webpack,redux,css,sass,html"/><br>
 <img src="https://skillicons.dev/icons?i=jest,cypress,nodejs,pnpm,yarn"/><br>
-<h4><b>Admin:</b></h4>  
-<img src="./icons/windows11-original.png" title="Windows" alt="Win" width="32" height="32"/>&nbsp;
-<img src="./icons/ubuntu.svg" title="Ubuntu" alt="Ubuntu" width="32" height="32"/>&nbsp;
-<img src="./icons/Zabbix.svg" title="Zabbix" alt="Zabbix" width="100" height="32"/>&nbsp;
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/Grafana-Dark.svg" title="Grafana" alt="Grafana" width="32" height="32"/>&nbsp;
-<img src="./icons/docker-plain-wordmark-8x.png" title="Docker" alt="Docker" width="32" height="32"/>&nbsp;
-<img src="./icons/portainer-original.png" title="Portainer" alt="Portainer" width="32" height="32"/>&nbsp;
-<img src="./icons/banniere-ocs-without-ng-white-white.png" title="Portainer" alt="Portainer" width="64" height="32"/>&nbsp;
+<h4><b>Admin:</b></h4>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" width="40" height="40" title="Windows Server"
+ alt="Windows Server"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" width="40" height="40" title="Ubuntu"
+ alt="Ubuntu"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Zabbix_logo.svg/960px-Zabbix_logo.svg.png?_=20200420123345" title="Zabbix" alt="Zabbix" width="130" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original-wordmark.svg" width="40" height="40" title="Grafana"
+ alt="Grafana"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="48" height="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/portainer/portainer-original.svg" title="Portainer" alt="Portainer" width="40" height="40"/>
 
 </div>
 
