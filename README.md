@@ -20,12 +20,12 @@
   <img src="./icons/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="32" height="32"/>&nbsp;
   <img src="./icons/pnpm-original.svg" title="pnpm" alt="pnpm" width="32" height="32"/>&nbsp;
   <img src="./icons/yarn-original.svg" title="yarn" alt="yarn" width="32" height="32"/>&nbsp;
-  <img src="https://logo.svgcdn.com/d/windows11-original.png" title="Windows" alt="Win" width="32" height="32"/>&nbsp;
-  <img src="https://logo.svgcdn.com/l/ubuntu.png" title="Ubuntu" alt="Ubuntu" width="32" height="32"/>&nbsp;
-  <img src="https://logo.svgcdn.com/l/zabbix-8x.png" title="Zabbix" alt="Zabbix" width="100" height="32"/>&nbsp;
-  <img src="https://logo.svgcdn.com/d/docker-plain-wordmark-8x.png" title="Docker" alt="Docker" width="32" height="32"/>&nbsp;
-  <img src="https://logo.svgcdn.com/d/portainer-original.png" title="Portainer" alt="Portainer" width="32" height="32"/>&nbsp;
-  <img src="https://ocsinventory-ng.org/wp-content/uploads/2019/04/banniere-ocs-without-ng-white-white.png" title="Portainer" alt="Portainer" width="64" height="32"/>&nbsp;
+  <img src="./icons/windows11-original.png" title="Windows" alt="Win" width="32" height="32"/>&nbsp;
+  <img src="./icons/ubuntu.svg" title="Ubuntu" alt="Ubuntu" width="32" height="32"/>&nbsp;
+  <img src="./icons/Zabbix.svg" title="Zabbix" alt="Zabbix" width="100" height="32"/>&nbsp;
+  <img src="./icons/docker-plain-wordmark-8x.png" title="Docker" alt="Docker" width="32" height="32"/>&nbsp;
+  <img src="./icons/portainer-original.png" title="Portainer" alt="Portainer" width="32" height="32"/>&nbsp;
+  <img src="./icons/banniere-ocs-without-ng-white-white.png" title="Portainer" alt="Portainer" width="64" height="32"/>&nbsp;
 </div>
 
 <!-- ICONS: https://brandpnglogo.com/ -->
@@ -34,7 +34,6 @@
 <!--<img height="32" width="32" src="https://cdn.simpleicons.org/react/white" title="React"/> <img height="32" width="32" src="https://cdn.simpleicons.org/typescript/white" title="TS"/> <img height="32" width="32" src="https://cdn.simpleicons.org/javascript/white" title="JS"/> <img height="32" width="32" src="https://cdn.simpleicons.org/vite/white" title="vite"/> <img height="32" width="32" src="https://cdn.simpleicons.org/yarn/white" title="Yarn"/> <img height="32" width="32" src="https://cdn.simpleicons.org/webpack/white" title="Webpack"/> <img height="32" width="32" src="https://cdn.simpleicons.org/sass/white" title="SASS"/> <img height="32" width="32" src="https://cdn.simpleicons.org/redux/white" title="Redux"/> <img height="32" width="32" src="https://cdn.simpleicons.org/yandexcloud/white" title="Yandex.Cloud"/> <img height="32" width="32" src="https://cdn.simpleicons.org/cypress/white" title="Cypress"/> <img height="32" width="32" src="https://cdn.simpleicons.org/jest/white" title="Jest"/>
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=i0ji&theme=2077&exclude=HTML"/> -->
-
 
 <hr>
 
