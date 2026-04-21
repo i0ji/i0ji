@@ -39,13 +39,14 @@
 
 ### Work exp:
 
-**RTA Air & Sea** (August 2023 – Present) DevOps Engineer/System Administrator:
+**RTA Air & Sea** (August 2023 – Present) Head of IT dep/DevOps Engineer/System Administrator:
 
-- Technologies: VMware, Linux & Windows administration, Zabbix, AD, YDS, Y.360, Portainer/Docker, Alta-Soft, Multifactor, 1S EPR, Hyper-V
+- Technologies: VMware, Linux & Windows administration, Zabbix, Grafana, AD, YDS, Y.360, Portainer/Docker, Alta-Soft, Multifactor, 1S EPR, Hyper-V
 - Migrating servers and services to the cloud
 - Managing and maintaining infrastructure
-- User support and working with customs and office apps
-- Maintaining the corporate website and developing an internal portal
+- L1-L3 user support
+- Work with customs and office apps
+- Maintaining and fully refacor the corporate website and developing an internal portal
 <hr>
 
 ### Projects
