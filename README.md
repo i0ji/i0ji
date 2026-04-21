@@ -5,35 +5,40 @@
 ## Technologies/stack:
 
 <div>
-  <img src="./icons/nextjs-original.svg" title="NEXT" alt="Next" width="32" height="32"/>&nbsp;
-  <img src="./icons/react-original-wordmark.svg" title="React" alt="React" width="32" height="32"/>&nbsp;
-  <img src="./icons/typescript-original.svg" title="TS" alt="TS" width="32" height="32"/>&nbsp;
-  <img src="./icons/javascript-original.svg" title="JS" alt="JS" width="32" height="32"/>&nbsp;
-  <img src="./icons/vitejs-original.svg" title="ViteJS" alt="ViteJS" width="32" height="32"/>&nbsp;
-  <img src="./icons/webpack-original.svg" title="Webpack" alt="Webpack" width="32" height="32"/>&nbsp;
+<h4><b>FE:</b></h4>  
+<img src="https://skillicons.dev/icons?i=next,react,ts,js,vite"/><br>
+<img src="https://skillicons.dev/icons?i=webpack,redux,css,sass,html"/><br>
+<img src="https://skillicons.dev/icons?i=jest,cypress,nodejs,pnpm,yarn"/><br>
+<h4><b>Admin:</b></h4>  
+<img src="./icons/windows11-original.png" title="Windows" alt="Win" width="32" height="32"/>&nbsp;
+<img src="./icons/ubuntu.svg" title="Ubuntu" alt="Ubuntu" width="32" height="32"/>&nbsp;
+<img src="./icons/Zabbix.svg" title="Zabbix" alt="Zabbix" width="100" height="32"/>&nbsp;
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/Grafana-Dark.svg" title="Grafana" alt="Grafana" width="32" height="32"/>&nbsp;
+<img src="./icons/docker-plain-wordmark-8x.png" title="Docker" alt="Docker" width="32" height="32"/>&nbsp;
+<img src="./icons/portainer-original.png" title="Portainer" alt="Portainer" width="32" height="32"/>&nbsp;
+<img src="./icons/banniere-ocs-without-ng-white-white.png" title="Portainer" alt="Portainer" width="64" height="32"/>&nbsp;
+
+</div>
+
+  <!-- ICONS: https://brandpnglogo.com/ -->
+  <!-- ICONS: https://github.com/devicons/devicon/tree/master/icons -->
+
+  <!-- THANKS FOR ICONS: https://github.com/tandpfun/skill-icons/tree/main -->
+  <!-- <img src="./icons/nextjs-original.svg" title="NEXT" alt="Next" width="32" height="32"/>&nbsp; -->
+  <!-- <img src="./icons/react-original-wordmark.svg" title="React" alt="React" width="32" height="32"/>&nbsp; -->
+  <!-- <img src="./icons/typescript-original.svg" title="TS" alt="TS" width="32" height="32"/>&nbsp; -->
+  <!-- <img src="./icons/javascript-original.svg" title="JS" alt="JS" width="32" height="32"/>&nbsp; -->
+  <!-- <img src="./icons/vitejs-original.svg" title="ViteJS" alt="ViteJS" width="32" height="32"/>&nbsp; -->
+  <!-- <img src="./icons/webpack-original.svg" title="Webpack" alt="Webpack" width="32" height="32"/>&nbsp;
   <img src="./icons/redux-original.svg" title="Redux" alt="Redux " width="32" height="32"/>&nbsp;
   <img src="./icons/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="32" height="32"/>&nbsp;
   <img src="./icons/sass-original.svg"  title="SASS" alt="SASS" width="32" height="32"/>&nbsp;
   <img src="./icons/html5-original.svg" title="HTML5" alt="HTML5" width="32" height="32"/>&nbsp;
-  <img src="./icons/jest-plain.svg" title="Jest" alt="Jest" width="32" height="32"/>&nbsp;
-  <img src="./icons/cypressio-original.svg" title="Cypress" alt="Cypress" width="32" height="32"/>&nbsp;
+  <img src="./icons/jest-plain.svg" title="Jest" alt="Jest" width="32" height="32"/>&nbsp; -->
+  <!-- <img src="./icons/cypressio-original.svg" title="Cypress" alt="Cypress" width="32" height="32"/>&nbsp;
   <img src="./icons/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="32" height="32"/>&nbsp;
   <img src="./icons/pnpm-original.svg" title="pnpm" alt="pnpm" width="32" height="32"/>&nbsp;
-  <img src="./icons/yarn-original.svg" title="yarn" alt="yarn" width="32" height="32"/>&nbsp;<br>
-  <img src="./icons/windows11-original.png" title="Windows" alt="Win" width="32" height="32"/>&nbsp;
-  <img src="./icons/ubuntu.svg" title="Ubuntu" alt="Ubuntu" width="32" height="32"/>&nbsp;
-  <img src="./icons/Zabbix.svg" title="Zabbix" alt="Zabbix" width="100" height="32"/>&nbsp;
-  <img src="./icons/docker-plain-wordmark-8x.png" title="Docker" alt="Docker" width="32" height="32"/>&nbsp;
-  <img src="./icons/portainer-original.png" title="Portainer" alt="Portainer" width="32" height="32"/>&nbsp;
-  <img src="./icons/banniere-ocs-without-ng-white-white.png" title="Portainer" alt="Portainer" width="64" height="32"/>&nbsp;
-</div>
-
-<!-- ICONS: https://brandpnglogo.com/ -->
-<!-- ICONS: https://github.com/devicons/devicon/tree/master/icons -->
-
-<!--<img height="32" width="32" src="https://cdn.simpleicons.org/react/white" title="React"/> <img height="32" width="32" src="https://cdn.simpleicons.org/typescript/white" title="TS"/> <img height="32" width="32" src="https://cdn.simpleicons.org/javascript/white" title="JS"/> <img height="32" width="32" src="https://cdn.simpleicons.org/vite/white" title="vite"/> <img height="32" width="32" src="https://cdn.simpleicons.org/yarn/white" title="Yarn"/> <img height="32" width="32" src="https://cdn.simpleicons.org/webpack/white" title="Webpack"/> <img height="32" width="32" src="https://cdn.simpleicons.org/sass/white" title="SASS"/> <img height="32" width="32" src="https://cdn.simpleicons.org/redux/white" title="Redux"/> <img height="32" width="32" src="https://cdn.simpleicons.org/yandexcloud/white" title="Yandex.Cloud"/> <img height="32" width="32" src="https://cdn.simpleicons.org/cypress/white" title="Cypress"/> <img height="32" width="32" src="https://cdn.simpleicons.org/jest/white" title="Jest"/>
-
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=i0ji&theme=2077&exclude=HTML"/> -->
+  <img src="./icons/yarn-original.svg" title="yarn" alt="yarn" width="32" height="32"/>&nbsp;<br> -->
 
 <hr>
 
