@@ -1,3 +1,5 @@
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+          
 <img src="https://media.giphy.com/media/Lny6Rw04nsOOc/giphy.gif" width="1024" height="600"/>
 
 ## Hello! My name is Ioann!
@@ -18,10 +20,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="48" height="48"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/portainer/portainer-original.svg" title="Portainer" alt="Portainer" width="40" height="40"/> -->
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Zabbix_logo.svg/960px-Zabbix_logo.svg.png?_=20200420123345" title="Zabbix" alt="Zabbix" width="140" height="40"/>
-
-
-</div>
+<img src="https://skillicons.dev/icons?i=windows,ubuntu,grafana,docker"/>
+<img src="https://skills.syvixor.com/api/icons?i=zabbix"/>
 
   <!-- ICONS: https://brandpnglogo.com/ -->
   <!-- ICONS: https://github.com/devicons/devicon/tree/master/icons -->
