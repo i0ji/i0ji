@@ -20,8 +20,13 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="48" height="48"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/portainer/portainer-original.svg" title="Portainer" alt="Portainer" width="40" height="40"/> -->
 
-<img src="https://skillicons.dev/icons?i=windows,ubuntu,grafana,docker"/>
-<img src="https://skills.syvixor.com/api/icons?i=zabbix"/>
+<img title="Windows, Ubuntu, Grafana, Docker" alt="Windows, Ubuntu, Grafana, Docker" src="https://skillicons.dev/icons?i=windows,ubuntu,grafana,docker"/>&nbsp;
+<img title="Zabbix" alt="Zabbix" src="https://skills.syvixor.com/api/icons?i=zabbix"/>&nbsp;
+<img title="OCS-NG" alt="OCS-NG" width="48" src="https://static.rustore.ru/imgproxy/07370jEdGJHJfihxzyIArr3GWdl229df6OPAA1al43c/preset:web_app_icon_160/plain/https://static.rustore.ru/2026/1/5/7e/apk/2063686894/content/ICON/953375dc-b087-42ca-85d0-2c8bf4ade6eb.png@webp"/>&nbsp;
+<img title="Portainer" alt="Portainer" width="48" style="borderRadius: 5" src="https://repository-images.githubusercontent.com/725794693/3b812728-09ec-4db5-b03b-b9f48cc439e3"/>
+
+
+
 
   <!-- ICONS: https://brandpnglogo.com/ -->
   <!-- ICONS: https://github.com/devicons/devicon/tree/master/icons -->
