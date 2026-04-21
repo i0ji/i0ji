@@ -5,25 +5,21 @@
 ## Technologies/stack:
 
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="NEXT" alt="Next" width="32" height="32"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="32" height="32"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TS" alt="TS" width="32" height="32"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JS" alt="JS" width="32" height="32"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg" title="ViteJS" alt="ViteJS" width="32" height="32"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="Webpack" alt="Webpack" width="32" height="32"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="32" height="32"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="32" height="32"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg"  title="SASS" alt="SASS" width="32" height="32"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="32" height="32"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="Jest" alt="Jest" width="32" height="32"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cypressio/cypressio-original.svg" title="Cypress" alt="Cypress" width="32" height="32"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="32" height="32"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pnpm/pnpm-original.svg" title="pnpm" alt="pnpm" width="32" height="32"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original.svg" title="yarn" alt="yarn" width="32" height="32"/>&nbsp;
-
-  
-  <img height="32" width="32" src="https://cdn.simpleicons.org/yandexcloud/white" title="Yandex.Cloud"/>
-  <br>
+  <img src="./icons/nextjs-original.svg" title="NEXT" alt="Next" width="32" height="32"/>&nbsp;
+  <img src="./icons/react-original-wordmark.svg" title="React" alt="React" width="32" height="32"/>&nbsp;
+  <img src="./icons/typescript-original.svg" title="TS" alt="TS" width="32" height="32"/>&nbsp;
+  <img src="./icons/javascript-original.svg" title="JS" alt="JS" width="32" height="32"/>&nbsp;
+  <img src="./icons/vitejs-original.svg" title="ViteJS" alt="ViteJS" width="32" height="32"/>&nbsp;
+  <img src="./icons/webpack-original.svg" title="Webpack" alt="Webpack" width="32" height="32"/>&nbsp;
+  <img src="./icons/redux-original.svg" title="Redux" alt="Redux " width="32" height="32"/>&nbsp;
+  <img src="./icons/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="32" height="32"/>&nbsp;
+  <img src="./icons/sass-original.svg"  title="SASS" alt="SASS" width="32" height="32"/>&nbsp;
+  <img src="./icons/html5-original.svg" title="HTML5" alt="HTML5" width="32" height="32"/>&nbsp;
+  <img src="./icons/jest-plain.svg" title="Jest" alt="Jest" width="32" height="32"/>&nbsp;
+  <img src="./icons//cypressio-original.svg" title="Cypress" alt="Cypress" width="32" height="32"/>&nbsp;
+  <img src="./icons/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="32" height="32"/>&nbsp;
+  <img src="./icons/pnpm-original.svg" title="pnpm" alt="pnpm" width="32" height="32"/>&nbsp;
+  <img src="./icons/yarn-original.svg" title="yarn" alt="yarn" width="32" height="32"/>&nbsp;
   <img src="https://logo.svgcdn.com/d/windows11-original.png" title="Windows" alt="Win" width="32" height="32"/>&nbsp;
   <img src="https://logo.svgcdn.com/l/ubuntu.png" title="Ubuntu" alt="Ubuntu" width="32" height="32"/>&nbsp;
   <img src="https://logo.svgcdn.com/l/zabbix-8x.png" title="Zabbix" alt="Zabbix" width="100" height="32"/>&nbsp;
